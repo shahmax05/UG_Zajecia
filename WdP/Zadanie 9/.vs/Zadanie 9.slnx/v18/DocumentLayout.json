@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WdP\\Zadanie 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F18890A-6267-4359-A3F9-C2233324F352}|Zadanie 9\\Zadanie 9.csproj|c:\\users\\jakup\\documents\\github\\ug_zajecia\\wdp\\zadanie 9\\zadanie 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F18890A-6267-4359-A3F9-C2233324F352}|Zadanie 9\\Zadanie 9.csproj|solutionrelative:zadanie 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WdP\\Zadanie 9\\Zadanie 9\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie 9\\Program.cs",
+              "ToolTip": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WdP\\Zadanie 9\\Zadanie 9\\Program.cs",
+              "RelativeToolTip": "Zadanie 9\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:00:14.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

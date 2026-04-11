@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakup\\Downloads\\JP\\WdP\\Zadanie 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9816CCD-9E65-43E1-A08F-58EBEEB28E4B}|Zadanie 8\\Zadanie 8.csproj|c:\\users\\jakup\\downloads\\jp\\wdp\\zadanie 8\\zadanie 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9816CCD-9E65-43E1-A08F-58EBEEB28E4B}|Zadanie 8\\Zadanie 8.csproj|solutionrelative:zadanie 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakup\\Downloads\\JP\\WdP\\Zadanie 8\\Zadanie 8\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie 8\\Program.cs",
+              "ToolTip": "C:\\Users\\jakup\\Downloads\\JP\\WdP\\Zadanie 8\\Zadanie 8\\Program.cs",
+              "RelativeToolTip": "Zadanie 8\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:21:24.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
