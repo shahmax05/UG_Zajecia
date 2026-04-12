@@ -1,0 +1,57 @@
+1. Utworzenie katalogu i wejście do niego
+Bash
+mkdir ProjektGit
+cd ProjektGit
+mkdir (make directory) tworzy nowy folder o podanej nazwie.
+
+cd (change directory) przenosi Cię do tego folderu.
+
+2. Inicjalizacja repozytorium Git
+Bash
+git init
+To polecenie tworzy nowe, puste repozytorium w obecnym folderze.
+
+3. Sprawdzenie, czy utworzono ukryty katalog .git
+Bash
+ls -a
+Uwaga dla Windows (Wiersz polecenia): Użyj komendy dir /ah
+
+Wyświetla wszystkie pliki, w tym te ukryte. Powinieneś zobaczyć na liście folder .git, który zawiera całą konfigurację repozytorium.
+
+4. Konfiguracja tożsamości (imię i email)
+Bash
+git config user.name "Twoje Imię"
+git config user.email "twoj@email.com"
+Git potrzebuje tych danych, aby móc podpisywać każdą Twoją zmianę (commit) Twoim nazwiskiem. Jeśli dopiszesz na początku flagę --global (np. git config --global user.name), ustawienie to zadziała dla wszystkich projektów na Twoim komputerze.
+
+5. Utworzenie pliku .gitignore dla C#/.NET
+Bash
+dotnet new gitignore
+To najlepsza i najszybsza praktyka, jeśli masz zainstalowane środowisko .NET. Komenda ta wygeneruje gotowy plik .gitignore ze wszystkimi regułami, które zignorują niepotrzebne pliki tymczasowe (jak foldery bin czy obj).
+
+6. Utworzenie prostego pliku Program.cs
+Możesz utworzyć ten plik w dowolnym edytorze (np. w Visual Studio lub Notatniku) i zapisać w swoim nowym folderze, albo użyć poniższej komendy w terminalu, która wygeneruje go za Ciebie:
+
+Bash
+echo "using System; Console.WriteLine(\"Witaj, Git!\");" > Program.cs
+Polecenie echo wrzuca podany tekst prosto do nowego pliku Program.cs.
+
+7. Sprawdzenie statusu repozytorium
+Bash
+git status
+Pokaże Ci na czerwono pliki, które Git "zauważył", ale jeszcze ich nie śledzi (w tym przypadku będą to tylko Program.cs oraz .gitignore).
+
+8. Dodanie plików do poczekalni i wykonanie commita
+Bash
+git add .
+git commit -m "Pierwszy commit: dodano .gitignore i Program.cs"
+git add . – kropka oznacza "dodaj wszystko do poczekalni (staging area)".
+
+git commit -m "..." – zatwierdza zmiany. Flaga -m pozwala na wpisanie krótkiego opisu zmiany bezpośrednio w konsoli, bez otwierania osobnego edytora tekstowego.
+
+9. Sprawdzenie historii commitów
+Bash
+git log
+Wyświetla chronologiczną listę wszystkich wykonanych commitów, wraz z ich autorami i datą.
+
+Wskazówka: Użycie git log --oneline wyświetli skróconą, bardzo czytelną wersję historii (jeden commit w jednej linijce).
