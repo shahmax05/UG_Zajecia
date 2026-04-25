@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WdP\\Skrypty\\Zadanie_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25C681C9-3534-4E9D-81CB-90E47C31A4AE}|Zadanie_5\\Zadanie_5.pyproj|C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WdP\\Skrypty\\Zadanie_5\\Zadanie_5\\Zadanie_5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{25C681C9-3534-4E9D-81CB-90E47C31A4AE}|Zadanie_5\\Zadanie_5.pyproj|solutionrelative:Zadanie_5\\Zadanie_5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanie_5.py",
+              "DocumentMoniker": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WdP\\Skrypty\\Zadanie_5\\Zadanie_5\\Zadanie_5.py",
+              "RelativeDocumentMoniker": "Zadanie_5\\Zadanie_5.py",
+              "ToolTip": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WdP\\Skrypty\\Zadanie_5\\Zadanie_5\\Zadanie_5.py",
+              "RelativeToolTip": "Zadanie_5\\Zadanie_5.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-25T10:46:33.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
