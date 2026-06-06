@@ -1,0 +1,64 @@
+/* Punkt 4: Kolorystyka własna/kontekstowa */
+body {
+    background-color: #fcfcfc;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    border-bottom: 5px solid #dc3545; /* Akcent czerwony (HIV awareness) */
+}
+
+/* Stylizacja lewej kolumny */
+.col-md-6.bg-white {
+    min-height: 400px;
+}
+
+.btn-group-vertical h3 {
+    color: maroon;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-group-vertical img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Punkt 8: Kontener na przyciski pod alertem */
+.btn-container {
+    display: flex;
+    gap: 10px;
+}
+
+/* Punkt 10: Stopka i zdjęcie */
+.footer-custom {
+    background-color: #e9ecef;
+    padding: 40px 0;
+    border-top: 1px solid #dee2e6;
+}
+
+.author-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%; /* Obraz w okręgu */
+    object-fit: cover;
+    border: 3px solid #fff;
+    display: block;
+    margin-left: auto; /* Wyśrodkowanie zdjęcia */
+    margin-right: auto;
+}
+
+/* Poprawki tabeli */
+.table thead th {
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+}
+
+abbr[title] {
+    text-decoration: none;
+    cursor: help;
+}

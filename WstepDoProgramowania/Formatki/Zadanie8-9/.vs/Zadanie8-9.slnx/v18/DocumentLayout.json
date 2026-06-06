@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WstepDoProgramowania\\Formatki\\Zadanie8-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA30219-5D19-4820-B946-B4BAC57D148F}|Zadanie8-9\\Zadanie8-9.csproj|c:\\users\\jakup\\documents\\github\\ug_zajecia\\wstepdoprogramowania\\formatki\\zadanie8-9\\zadanie8-9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA30219-5D19-4820-B946-B4BAC57D148F}|Zadanie8-9\\Zadanie8-9.csproj|solutionrelative:zadanie8-9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA30219-5D19-4820-B946-B4BAC57D148F}|Zadanie8-9\\Zadanie8-9.csproj|c:\\users\\jakup\\documents\\github\\ug_zajecia\\wstepdoprogramowania\\formatki\\zadanie8-9\\zadanie8-9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA30219-5D19-4820-B946-B4BAC57D148F}|Zadanie8-9\\Zadanie8-9.csproj|solutionrelative:zadanie8-9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WstepDoProgramowania\\Formatki\\Zadanie8-9\\Zadanie8-9\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie8-9\\Form1.cs",
+              "ToolTip": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WstepDoProgramowania\\Formatki\\Zadanie8-9\\Zadanie8-9\\Form1.cs",
+              "RelativeToolTip": "Zadanie8-9\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:22:26.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WstepDoProgramowania\\Formatki\\Zadanie8-9\\Zadanie8-9\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie8-9\\Form1.cs",
+              "ToolTip": "C:\\Users\\jakup\\Documents\\GitHub\\UG_Zajecia\\WstepDoProgramowania\\Formatki\\Zadanie8-9\\Zadanie8-9\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Zadanie8-9\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:15:54.077Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

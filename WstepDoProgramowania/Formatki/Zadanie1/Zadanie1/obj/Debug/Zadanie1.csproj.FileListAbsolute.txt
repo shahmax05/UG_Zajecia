@@ -1,0 +1,10 @@
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.AssemblyReference.cache
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.cache
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Form1.resources

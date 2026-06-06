@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularz Rezerwacji</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-light">
+
+<main class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8 bg-white p-4 p-md-5 rounded shadow-sm">
+            
+            <div class="border-bottom pb-3 mb-4">
+                <h2 class="fw-bold text-dark mb-1">Formularz Rezerwacji Hotelu</h2>
+                <p class="text-secondary small mb-0">Wypełnij poniższy formularz.</p>
+            </div>
+
+            <p class="text-muted small mb-5">Twoja rezerwacja zostanie zweryfikowana przed przyjazdem.</p>
+
+            <form>
+                <div class="mb-4">
+                    <label class="form-label fw-bold small text-secondary">Imię i Nazwisko</label>
+                    <div class="row g-3">
+                        <div class="col-sm-6">
+                            <input type="text" class="form-control bg-light" required>
+                            <div class="form-text small">Imię</div>
+                        </div>
+                        <div class="col-sm-6">
+                            <input type="text" class="form-control bg-light" required>
+                            <div class="form-text small">Nazwisko</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <label class="form-label fw-bold small text-secondary">Adres</label>
+                    <div class="row g-3">
+                        <div class="col-12">
+                            <input type="text" class="form-control bg-light">
+                            <div class="form-text small">Adres ulicy</div>
+                        </div>
+                        <div class="col-12">
+                            <input type="text" class="form-control bg-light">
+                            <div class="form-text small">Numer Domu / Lokalu</div>
+                        </div>
+                        <div class="col-sm-6">
+                            <input type="text" class="form-control bg-light">
+                            <div class="form-text small">Miasto</div>
+                        </div>
+                        <div class="col-sm-6">
+                            <input type="text" class="form-control bg-light">
+                            <div class="form-text small">Województwo</div>
+                        </div>
+                        <div class="col-12">
+                            <input type="text" class="form-control bg-light">
+                            <div class="form-text small">Kod Pocztowy</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <div class="row g-3">
+                        <div class="col-sm-6">
+                            <label class="form-label fw-bold small text-secondary">Numer Telefonu</label>
+                            <input type="tel" class="form-control bg-light" placeholder="+00-000-000-000">
+                        </div>
+                        <div class="col-sm-6">
+                            <label class="form-label fw-bold small text-secondary">E-mail</label>
+                            <input type="email" class="form-control bg-light" placeholder="np: jan.kowalski@poczta.pl">
+                            <div class="form-text small">jan.kowalski@poczta.pl</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <div class="row g-3">
+                        <div class="col-sm-6">
+                            <label class="form-label fw-bold small text-secondary">Data i Czas Przyjazdu</label>
+                            <div class="d-flex gap-2">
+                                <input type="date" class="form-control bg-light w-50" required>
+                                <div class="w-50">
+                                    <input type="time" class="form-control bg-light">
+                                    <div class="form-text small text-nowrap">Godzina Minuty</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <label class="form-label fw-bold small text-secondary">Data i Czas Wyjazdu</label>
+                            <div class="d-flex gap-2">
+                                <input type="date" class="form-control bg-light w-50" required>
+                                <div class="w-50">
+                                    <input type="time" class="form-control bg-light">
+                                    <div class="form-text small text-nowrap">Godzina Minuty</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <div class="row g-3">
+                        <div class="col-sm-6">
+                            <label class="form-label fw-bold small text-secondary">Liczba Dorosłych</label>
+                            <input type="number" class="form-control bg-light" placeholder="np: 2" min="1">
+                        </div>
+                        <div class="col-sm-6">
+                            <label class="form-label fw-bold small text-secondary">Liczba Dzieci</label>
+                            <input type="number" class="form-control bg-light" placeholder="np: 0" min="0">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <label class="form-label fw-bold small text-secondary mb-3">Metoda Płatności</label>
+                    <div class="d-flex gap-4">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="payCheck" checked>
+                            <label class="form-check-label text-secondary small" for="payCheck">Czek</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="payPaypal">
+                            <label class="form-check-label text-secondary small" for="payPaypal">PayPal</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="border-top border-bottom py-3 my-4 d-flex justify-content-end align-items-center gap-4">
+                    <span class="fw-bold text-secondary">Suma</span>
+                    <span class="fw-bold fs-5 text-dark">0.00 PLN</span>
+                </div>
+
+                <div class="mb-4">
+                    <label class="form-label fw-bold small text-secondary">Czy masz jakieś specjalne życzenia?</label>
+                    <textarea class="form-control bg-light" rows="4" placeholder="Zacznij pisać..."></textarea>
+                </div>
+
+                <div class="text-center mt-5">
+                    <button type="submit" class="btn btn-success px-5 py-2 fw-bold text-white shadow-sm">Prześlij</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

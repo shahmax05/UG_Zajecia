@@ -1,0 +1,74 @@
+/* 10. Zmiana standardowego kroju czcionki poprzez import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+/* Dostosowanie wysokości zdjęć w karuzeli reklamowej */
+.vh-50 {
+    height: 50vh;
+}
+
+.gallery-img {
+    height: 60vh;
+}
+
+/* Owalne zdjęcia w opiniach z rygorystycznym rozmiarem */
+.profile-img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border: 4px solid #f8f9fa;
+}
+
+/* Własne kolory nawiązujące do natury (opcjonalnie, zastępują standardowe tło/cta) */
+.bg-primary {
+    background-color: #1a5632 !important; /* Ciemna leśna zieleń */
+}
+.btn-warning {
+    background-color: #f1c40f;
+    border-color: #f1c40f;
+    color: #111;
+}
+.btn-warning:hover {
+    background-color: #d4ac0d;
+    border-color: #d4ac0d;
+}
+
+/* Domyślne rozmiary fontów (dla komputerów / dużych ekranów) */
+.history-text {
+    font-size: 1.25rem; /* 20px */
+    line-height: 1.8;
+    color: #555;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 2.5rem; /* 40px */
+}
+
+/* 9. Zmiana wielkości czcionki dla małych urządzeń poprzez media queries */
+@media (max-width: 767px) {
+    /* Mniejsze nagłówki i tekst na telefonach */
+    .history-text {
+        font-size: 1rem; /* 16px */
+        line-height: 1.6;
+        padding: 0 15px;
+    }
+
+    h2 {
+        font-size: 1.75rem; /* 28px */
+    }
+
+    /* Dopasowanie wysokości karuzeli na telefonach */
+    .vh-50, .gallery-img {
+        height: 35vh; 
+    }
+    
+    .cta-section h2 {
+        font-size: 2rem;
+    }
+}

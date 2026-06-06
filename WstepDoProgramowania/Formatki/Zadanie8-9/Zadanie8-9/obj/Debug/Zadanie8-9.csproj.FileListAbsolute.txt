@@ -1,0 +1,11 @@
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\bin\Debug\Zadanie8-9.exe.config
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\bin\Debug\Zadanie8-9.exe
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\bin\Debug\Zadanie8-9.pdb
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\obj\Debug\Zadanie8-9.csproj.AssemblyReference.cache
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\obj\Debug\Zadanie8_9.Form1.resources
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\obj\Debug\Zadanie8_9.Properties.Resources.resources
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\obj\Debug\Zadanie8-9.csproj.GenerateResource.cache
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\obj\Debug\Zadanie8-9.csproj.CoreCompileInputs.cache
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\obj\Debug\Zadanie8-9.exe
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\obj\Debug\Zadanie8-9.pdb
+C:\Users\jakup\Documents\GitHub\UG_Zajecia\WstepDoProgramowania\Formatki\Zadanie8-9\Zadanie8-9\obj\Debug\KolkoKrzyzyk.Form1.resources
